@@ -26,7 +26,7 @@ _Immerse yourself in the quintessential public house ambience with Zoxe Scripts 
 
 Preview: [Streamable](https://streamable.com/zuecqh)
 
-Documentation: [Github](https://zoxe-development.gitbook.io/home/)
+Documentation: [Gitbook](https://zoxe-development.gitbook.io/home/)
 
 Download: [Github](https://github.com/Zoxe-zx/Zoxe-PublicHouse)
 
